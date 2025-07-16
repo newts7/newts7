@@ -1,15 +1,12 @@
-<!-- Welcome GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
-</p>
-
 # Hi there, I'm Divyanshu! 👋
 
-I'm a **DevOps Engineer** who gets an absolute **kick** out of solving the most challenging problems and building products that scale to millions. There's nothing quite like the rush of architecting systems that handle massive traffic and seeing them perform flawlessly under pressure.
+I'm a **full-stack engineer** who gets an absolute **kick** out of solving the most challenging problems and building products that scale to millions. I can do **everything** – with **backend and DevOps being my forte**, but I'm equally comfortable crafting beautiful frontends. There's nothing quite like the rush of architecting systems that handle massive traffic and seeing them perform flawlessly under pressure.
 
 ## ✨ About Me
 
-- **DevOps & Infrastructure Architect** obsessed with turning impossible challenges into elegant, scalable solutions.
+- **Full-Stack Developer** with **backend and DevOps as my superpowers** – I architect, build, and deploy end-to-end solutions.
+- **AI-native engineer** who ships code like crazy – I leverage AI to accelerate development and deliver faster than ever.
+- Obsessed with **clean code** and follow the principles of Clean Coder – because beautiful code is maintainable code.
 - I **live for the thrill** of building rock-solid systems that millions depend on daily.
 - Successfully architected and scaled production infrastructures for **high-stakes industries like banking** – where failure isn't an option.
 
